@@ -16,6 +16,8 @@ You can find the links to the notebook here:
 
 [Notebook-Github-Link](https://github.com/yogi2022/HR_Attrition_Prediction_Semicolons2022/blob/main/HR_Attrition_Prediction_Semicolons2022_notebook1.ipynb)
 
+[Persistent-GitLab-Repo-Link](https://gitpsl.persistent.co.in/semicolons2022/team-earlybirds_hr-attrition-prediction-semicolons2022)
+
 Here, we have analysed the data and made some visualizations that would help us.
 
 You could find some visualization here:
